@@ -1,0 +1,16 @@
+body{
+    padding: 50px;
+}
+h1{
+    padding: 2rem;
+    text-align: center;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.mb-3{
+    width: 50%;
+    margin: 0 auto;
+}
